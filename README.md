@@ -6,8 +6,5 @@
  
  
 ```
- node app.js
+ npm install react
 ```
-
-
-XD
